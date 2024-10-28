@@ -1,0 +1,6 @@
+# バイナリファイル
+/bin/
+
+# OSによる隠しファイル
+.DS_Store
+Thumbs.db
