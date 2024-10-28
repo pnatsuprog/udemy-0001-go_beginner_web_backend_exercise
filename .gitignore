@@ -4,3 +4,6 @@
 # OSによる隠しファイル
 .DS_Store
 Thumbs.db
+
+# goenv
+.go-version
