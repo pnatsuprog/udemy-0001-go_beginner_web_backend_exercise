@@ -1,0 +1,6 @@
+# リクエストを複数記述する場合は ### で区切ること!
+
+GET http://localhost:8080/hello
+
+###
+GET http://localhost:8080/health
