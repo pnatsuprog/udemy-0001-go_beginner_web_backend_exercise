@@ -4,7 +4,7 @@
 
 ### よく使うコマンド
 
--   `go build`: プロジェクトをビルドします。
--   `go run ./cmd/api/main.go`: メインプログラムを実行します。
+-   `go run ./cmd/api/main.go`: プロジェクトを起動します。
+-   `go build -o bin/api ./cmd/api/main.go`: プロジェクトをビルドします。
 -   `go test`: テストを実行します。
 -   `go fmt`: コードをフォーマットします。
